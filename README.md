@@ -24,7 +24,7 @@ Front-End:
 
 - React
 - Axios for HTTP requests
-= CSS frameworks (Bootstrap)
+- CSS frameworks (Bootstrap)
 
 Back-End:
 
